@@ -86,7 +86,7 @@ export const info = {
   socialMedia: {
     twitter: "https://twitter.com/Uzzii_21",
     github: "https://github.com/uzzii-21",
-    email: "shurthiappukuttan.com",
+    email: "shurthiappukuttan@gmail.com",
     linkedin: "https://www.linkedin.com/in/shurthi/",
   },
 
