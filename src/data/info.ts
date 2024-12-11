@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://shurthi.vercel.app",
+  baseUrl: "https://shurthi.com",
   name: "Shurthi",
   jobDescription: "Web Developer",
   about: `I am a passionate software engineer based in Toronto, Canada, with a strong focus on web development. With over five years of experience in the industry, I specialize in creating dynamic and responsive web applications. My expertise spans both front-end and back-end technologies, including Angular, Node.js, Java, Spring Boot and RESTful API development.
@@ -12,13 +12,13 @@ export const info = {
       startDate: "Jun 2022",
       endDate: "Sep 2024",
       description: [
-        "Maintaining and updating web application for one of the major US Healthcare Insurance Providers. This application maintains records and helps generate reports.",
+        "Development and support of web application for one of the major US Healthcare Insurance Providers. This application maintains records and helps generate reports.",
         "• Developed web templates using Angular 7, Angular 9, Bootstrap, CSS and HTML in frontend and RESTful backend APIs using Spring and Hibernate to persist data in DB2 database.",
         "• Responsible to resolve production defects and mentoring junior developers.",
         "• Involved in application vulnerabilities remediation identified by security check tools.",
         "• Worked on Angular version upgrades.",
         "• Coordinated with SMEs, mainframe team and DevOps team based on the requirements.",
-        "• Worked on shell scripting in Unix server for SFTP of files."
+        "• Worked on shell scripting in Unix server."
       ],
     },
 
@@ -28,9 +28,9 @@ export const info = {
       startDate: "Jan 2022",
       endDate: "Jun 2022",
       description: [
-        "Build and maintained Real Time Dashboards and visualizations for Business stakeholders to monitor logs of MuleSoft APIs created as part of the project where log analytics pipeline is created using Elasticsearch, Logstash and Kibana for one of the biggest biotech companies.",
+        "Developed real-time dashboards and visualizations for business stakeholders to monitor logs of MuleSoft APIs created as part of the project where log analytics pipeline is created using Elasticsearch, Logstash and Kibana for one of the biggest biotech companies.",
         "• Monitor logs on servers and generate dashboards in real-time.",
-        "• Written automated queries in Kibana for proactively monitoring performance in different environments (like Dev, Stage and Production).",
+        "• Written automated queries in Kibana for proactively monitoring performance in different environments (dev, stage and production).",
         "• Maintain change control and testing processes for all modifications and deployments.",
         "• Participated in problem resolving, change, release and event management for Kibana."
       ],
